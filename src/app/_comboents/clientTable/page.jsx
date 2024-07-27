@@ -123,7 +123,7 @@ export default function Client() {
             type="text"
             id="username"
             name="username"
-            className="peer bg-transparent h-10 w-[100%] rounded-lg text-gray-200 placeholder-blue-400 ring-2 px-2 ring-gray-500 focus:ring-sky-600 focus:outline-none focus:border-rose-600"
+            className="peer bg-transparent h-10 w-[100%] rounded-lg text-blue-900 placeholder-blue-400 ring-2 px-2 ring-gray-500 focus:ring-sky-600 focus:outline-none focus:border-rose-600"
             placeholder="Search by customer name"
           />
           <label
